@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rate-calculator/static/css/main.2d2d7413.css",
+    "main.js": "/rate-calculator/static/js/main.277e24ad.js",
+    "static/js/453.83f98e0a.chunk.js": "/rate-calculator/static/js/453.83f98e0a.chunk.js",
+    "index.html": "/rate-calculator/index.html",
+    "main.2d2d7413.css.map": "/rate-calculator/static/css/main.2d2d7413.css.map",
+    "main.277e24ad.js.map": "/rate-calculator/static/js/main.277e24ad.js.map",
+    "453.83f98e0a.chunk.js.map": "/rate-calculator/static/js/453.83f98e0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d2d7413.css",
+    "static/js/main.277e24ad.js"
+  ]
+}
